@@ -1,5 +1,5 @@
-name:pasanna github action
-on:[push]
+name: pasanna github action
+on: [push]
 jobs:
     print-hello-world:
         runs-on:ubuntu-latest
